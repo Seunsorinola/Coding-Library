@@ -1,0 +1,129 @@
+Roadmap for JavaScript Absolute Beginners
+
+ Before you go through this Thread ⬘ It's not going to be like typical roadmap. ⬖ No timelines are attached. Take your own time. Do not rush. Nothing gonna change if you finish 1 week or, 1 month late. ⬙ This is no spoon feeding. You have to practice hard to learn.
+➊  Variables and, Datatypes
+
+➀ Datatypes
+   ➟  Primitives
+   ➟  Literals
+       ➟  Numeric
+       ➟  Boolean
+       ➟  String
+
+➁ Variable
+   ➟  Naming
+   ➟  Declaration
+   ➟  Assignment
+
+✧ Special Topic
+    ➟  Type Coercion/Conversion
+
+➋  Operators
+
+➀ Arithmetic Operators
+➁ Comparison Operators
+➂ Logical Operators
+➃ Assignment Operators
+➄ Typechecking Operators
+➅ Bit-wise Operators (Optional)
+➆ Ternary Operator
+
+➌  Syntax
+
+➀ Condition
+   ➟  if else
+   ➟  switch case
+
+➁ Loop
+   ➟  while
+   ➟  do while
+   ➟  for
+
+➍  Function
+
+➀ Function Declaration
+➁ Function Expression
+➂ Anonymous Function
+➃ Arrow Function
+
+✧ Special Topic:
+    ➟  Variable Scope
+    ➟  Hoisting
+    ➟  Callback Function
+    ➟  Closure
+
+➎  Array
+
+➀ Array Literal
+➁ Array Creation
+➂ Array.length
+➃ Array methods
+➄ Array Iteration
+
+✧ Special Topic:
+    ➟  Array Destructuring
+    ➟  Array Spreading
+    ➟  Array Sorting
+
+➏  String
+
+➀ String Literal
+➁ String.length
+➂ String methods
+
+✧ Special Topic:
+    ➟  String Template Literal
+
+➐  Object
+
+➀ Object Literal
+➁ Accessing Object Properties
+➂ Iterating through Objects (for...in)
+
+✧ Special Topic:
+    ➟  Object Destructuring
+    ➟  Object Spreading
+
+➑  Special Objects
+
+➀ Number
+➁ Boolean
+➂ Set
+➃ Map
+➄ Math
+➅ Date
+➆ console
+
+➒  JS Modules (ECMAScript Modules)
+
+➀ import
+➁ import {}
+➂ export
+➃ export default
+
+➓  What next?
+
+Based on what career you are choosing, you may have to study some (or, all) of below
+
+➀ Async
+     ➟ Promise API
+     ➟ await async
+➁ Object Oriented
+     ➟ Class
+     ➟ Prototype
+➂ DOM
+➃ Fetch API
+➄ Client-side Storage
+     ➟ Cookies
+     ➟ Web Storage
+     ➟ IndexedDB
+     ➟ Cache API
+
+🏁 Goal Post
+
+Remember, it's not a competition that you have to finish 🥇🥈🥉
+
+⬖  Learn with your own pace
+⬘  Do practice for each lesson
+⬗  Keep note of whatever you feel important
+⬙  Save all your data in a safe storage (Git storage is preferred)
